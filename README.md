@@ -7,8 +7,6 @@
 - 🤔 I plan to learn more about web languages and Kotlin.
 - 📫 How to reach me:
 
-
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)           [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com) [![Telegram](https://img.shields.io/badge/Telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.org) 
-
-**@xeezow** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **xeezow#8406** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **@xeezow**
-
+  - https://twitter.com/xeezow
+  - Discord: xeezow#8406
+  - Telegram: @xeezow
