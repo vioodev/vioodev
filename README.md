@@ -1,6 +1,6 @@
 ### Hey there, I'm xeezow! 👋
 
-- 💻 I'm Head Developer at @Stormworth.
+- 💻 I'm Head Developer at Stormworth (github.com/Stormworth).
 - 🔭 I'm currently working on battle.rip.
 - 🌱 I'm mostly experienced in Java.
 - 🤔 I plan to learn more about web languages and Kotlin.
