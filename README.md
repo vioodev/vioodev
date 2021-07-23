@@ -1,6 +1,6 @@
 ### Hey there, I'm xeezow! 👋
 
-- 😔 All of my projects right now are private, but I plan to upload some public projects to boost my portfolio soon!
+- ✅ Make sure to check out [Origin](https://github.com/xeezowdev/Origin), a Bukkit server core plugin I recently wrote for my portfolio.
 - 💻 I'm currently working as the Head Developer on battle.rip, a Minecraft PvP network operated by [Stormworth](https://github.com/Stormworth).
 - 🌱 I'm mostly experienced in Java, however, I'm also familiar with some basic web stuff (JS, PHP, HTML and CSS) and a little bit of Python.
 - 📋 I usually make use of MySQL or Postgres databases, but I'm currently learning more about MongoDB.
