@@ -9,6 +9,6 @@
 
 ## Github Achievements
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xeezowcc&show_icons=true&theme=light)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xeezowdev&show_icons=true&theme=light)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xeezowcc&theme=light&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xeezowdev&theme=light&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
