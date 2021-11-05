@@ -3,7 +3,7 @@
 - ✅ Make sure to check out [Origin](https://github.com/vioodev/Origin), a Minecraft server core plugin built using the Bukkit API which I wrote for my portfolio.
 - ➡️ You might also want to check out the source of my [own portfolio website](https://github.com/vioodev/Portfolio) I'm currently working on.
 - 💻 I used to be Head Developer on battle.rip, a Minecraft PvP network operated by [Stormworth](https://github.com/Stormworth). I'm no longer affiliated with the project though.
-- 🌱 I'm mostly experienced in Java, however, I'm also familiar with some web stuff (Angular) and a little bit of Python.
+- 🌱 I'm primarily experienced in Java, however, I'm also familiar with some web stuff (Angular) and a little bit of Python.
 - 📋 I usually make use of MySQL or Postgres databases, but I'm currently learning more about MongoDB.
 - 🤔 I plan to learn more about Angular and Kotlin.
 - 📫 You can reach me on Discord (vio#8406) or Telegram (@vioodev). Besides, feel free to check out my [Twitter](https://twitter.com/vioodev).
