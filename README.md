@@ -4,6 +4,7 @@
 - I usually write software for Minecraft servers. I'm quite experienced with plugin development for Bukkit, BungeeCord and Velocity and optimization of the Spigot codebase. I'm also familiar with JDA for Discord integration.
 - I have knowledge about creating microservices using Spring Boot.
 - I'm familiar with relational and non-relational databases as well as K/V stores like Redis.
+- I know how to use Git, Maven and Gradle.
 
 ### Public Projects
 
