@@ -1,5 +1,3 @@
-ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCyxLZSpkLL1tI79pk1zNOjWLLSg7pMfMw+q3aEQ1tSJDi8PubbcE538YTpFoG1b0XNNrFrjR1zZU5AADftogTTB937tuecxLA1HUy5LUNFKE2WO7GFi6n0yYfvD9AOW5i5o5bE3pcoj5rAdR2r2G40ib3pBKGU8IzTc14F95zVQN1WoCokYtwMm0EMk2ohaerYT3N1LSXX5FnLWtxGTFdIbqlhR9zihQ+JZyFZgKeL9zyyIj5N71Sjpgg1E95t8UNgHvfO1/sZVysKe9V1Wv0b5p+YGD8eU+dahPou/2ZxoA254z1zxgfRbu8VO+MHf0Uk7RT3/6FPTtu2WLOlgU0okq8OJacQR+OkWoxoeHzxVt0Hp8rA0/2m7YLYDj91Z7ak95lRZCknMh75vAaR5MBZ2y/Jag6v4dbcuwYkwSMSVj98CqNOqMEoeqIB9KuiWO4dBKDMuUy8ACapdgmfcxwvUFy/ZbKgwEt2+O3HbtE6TPFUwheeQVUFSfHT0KBUKj8= ignxeezow@gmail.com
-
 ### Hey there, I'm vio! 👋
 
 - I'm primarily experienced in Java, however, I'm also familiar with basic web stuff. I know a little bit about Angular.
