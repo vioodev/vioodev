@@ -12,7 +12,8 @@
 
 ### Experience
 
-- I'm Owner & Developer of [Curve](https://github.com/Curve-Network), 2022's leading Minecraft UHC network. I was doing everything dev-wise on the server, website, Bukkit & BungeeCord/Velocity plugins, optimization of the Spigot codebase, Spring Boot microservices for Discord, Twitter & website integration, administration of the dedicated server and much more. The project was started in December 2021 and discontinued in December 2022 due to an administrative decision.
+- I'm Owner & Developer of [Curve](https://github.com/curve-development), 2022 and 2023's leading Minecraft UHC network. I'm doing everything dev-wise on the server, website, Bukkit & BungeeCord/Velocity plugins, optimization of the Spigot codebase, Spring Boot microservices for Discord, Twitter & website integration, administration of the dedicated server and much more. The project was started in December 2021 and is still running, however it is put on hold at the moment.
+- I'm Developer of [Tidal](https://github.com/tidal-development), another Minecraft UHC network. My work on there is primarily focused on the development of Bukkit plugins for the server's (mini-)games as well the overall server infrastructure.
 - I used to be Developer on [PvPGym](https://twitter.com/PvPGymOfficial), a Minecraft Arena & UHC network. During my time as developer on the server, I was primarily working on their Bukkit plugin codebase. I'm not affiliated with the project anymore.
 - I was the Head Developer of [Battle](https://twitter.com/BattleRIPNet), a Minecraft HCF & UHC network. Due to my position as Head Developer, I was managing their development team as well as developing plugins, optimizing the Spigot, and administrating their dedicated servers. I was there when the network was in early stages, so I was also working on the server's predecessor "Asuma Network". I'm not affiliated with the project anymore.
 
